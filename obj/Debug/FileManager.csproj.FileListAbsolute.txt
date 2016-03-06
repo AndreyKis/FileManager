@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Lab_2_File Manager\File Manager\obj\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Lab_2_File Manager\File Manager\obj\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\bin\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\bin\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyManager.Form1.resources
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyManager.Form2.resources
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyManager.newFolder.resources
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyManager.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\MyManager.textViewer.resources
+C:\Users\Андрей\Desktop\Пары\Второй курс\Первый семестр\Прога\Лабы\Labs\Lab_2_File Manager\File Manager\obj\Debug\FileManager.csproj.GenerateResource.Cache

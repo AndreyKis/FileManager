@@ -1,0 +1,86 @@
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\bin\Debug\MyComander.exe.config
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\bin\Debug\MyComander.exe
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\bin\Debug\MyComander.pdb
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\obj\Debug\MyComander.csprojResolveAssemblyReference.cache
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\obj\Debug\MyComander.Form1.resources
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\obj\Debug\MyComander.Properties.Resources.resources
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\obj\Debug\MyComander.csproj.GenerateResource.Cache
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\obj\Debug\MyComander.exe
+E:\Wsl_F\С# projects\visual\lab1\MyComander\MyComander\obj\Debug\MyComander.pdb
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\bin\Debug\MyComander.exe.config
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\obj\Debug\MyComander.exe
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\obj\Debug\MyComander.pdb
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\bin\Debug\MyComander.exe
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\bin\Debug\MyComander.pdb
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\obj\Debug\MyComander.csprojResolveAssemblyReference.cache
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\obj\Debug\MyComander.Form1.resources
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\obj\Debug\MyComander.Properties.Resources.resources
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\obj\Debug\MyComander.csproj.GenerateResource.Cache
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\obj\Debug\MyComander.newFolder.resources
+E:\Wsl_F\учеба\proga\lab1_2\lab1\MyComander\MyComander\obj\Debug\MyComander.textViewer.resources
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\bin\Debug\MyComander.exe.config
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\obj\Debug\MyComander.exe
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\obj\Debug\MyComander.pdb
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\bin\Debug\MyComander.exe
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\bin\Debug\MyComander.pdb
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\obj\Debug\MyComander.csprojResolveAssemblyReference.cache
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\obj\Debug\MyComander.Form1.resources
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\obj\Debug\MyComander.newFolder.resources
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\obj\Debug\MyComander.Properties.Resources.resources
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\obj\Debug\MyComander.textViewer.resources
+E:\Wsl_F\учеба\proga\lab1_2\MyComander\MyComander\obj\Debug\MyComander.csproj.GenerateResource.Cache
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\bin\Debug\MyComander.exe.config
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\obj\Debug\MyComander.pdb
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\obj\Debug\MyComander.csprojResolveAssemblyReference.cache
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\obj\Debug\MyComander.Form1.resources
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\obj\Debug\MyComander.newFolder.resources
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\obj\Debug\MyComander.Properties.Resources.resources
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\obj\Debug\MyComander.textViewer.resources
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\obj\Debug\MyComander.csproj.GenerateResource.Cache
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\bin\Debug\MyComander.exe
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\bin\Debug\MyComander.pdb
+E:\Wsl_F\учеба\proga\lab1_2\Franchuk_K-25_2\MyComander\MyComander\obj\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\bin\Debug\MyComander.exe.config
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\obj\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\bin\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\bin\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\obj\Debug\MyComander.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\obj\Debug\MyComander.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\obj\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\obj\Debug\MyManager.Form1.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\obj\Debug\MyManager.newFolder.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\obj\Debug\MyManager.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба Франчука\MyComander\MyComander\obj\Debug\MyManager.textViewer.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\bin\Debug\MyComander.exe.config
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\obj\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\obj\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\bin\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\bin\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\obj\Debug\MyComander.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\obj\Debug\MyManager.Form1.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\obj\Debug\MyManager.newFolder.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\obj\Debug\MyManager.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\obj\Debug\MyManager.textViewer.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №1. Файловый менагер\Сам менагер 3\obj\Debug\MyComander.csproj.GenerateResource.Cache
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\bin\Debug\MyComander.exe.config
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\obj\Debug\MyComander.exe
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\obj\Debug\MyComander.pdb
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\obj\Debug\MyComander.csprojResolveAssemblyReference.cache
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.Form1.resources
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.newFolder.resources
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.Properties.Resources.resources
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.textViewer.resources
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\obj\Debug\MyComander.csproj.GenerateResource.Cache
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\bin\Debug\MyComander.exe
+C:\Users\M0sTik\Desktop\Сам менагер 3\Сам менагер 3\bin\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.Form1.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.newFolder.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.textViewer.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyComander.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\bin\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\bin\Debug\MyComander.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyComander.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyComander.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Сам менагер 3\Сам менагер 3\obj\Debug\MyManager.Form2.resources
